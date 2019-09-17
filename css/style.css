@@ -1,0 +1,80 @@
+body {
+    /* background: rgb(0,8,37); */
+    /* background: linear-gradient(0deg, rgba(0,8,37,1) 0%, rgba(0,1,8,1) 100%); */
+    background: rgb(1,0,15);
+    background: linear-gradient(180deg, rgba(1,0,15,1) 0%, rgba(8,12,24,1) 64%, rgba(7,66,78,1) 100%);
+    font-family: Arial, Verdana, sans-serif, Monotype Corsiva;
+    color: #8f80b3;
+    width: auto;
+    height: auto;
+}
+p {
+    font-family: sans-serif;
+    font-size: 24px;
+}
+
+
+.navi {
+    display: inline;
+
+}
+.nav-bar {
+    margin: 0;
+    padding: 0;
+    text-align: right;
+    list-style: none;
+}
+
+.hlink {
+    padding-right: 5px;
+    display: inline;
+    border-right: 1px, solid, #aaa;
+
+}
+
+.alink {
+    padding-right: 5px;
+    display: inline;
+    border-right: 1px, solid, #aaa;
+}
+
+.slink {
+    padding-right: 5px;
+    display: inline;
+    border-right: 1px, solid, #aaa;
+}
+
+.flink {
+    padding-right: 5px;
+    display: inline;
+    border-right: 1px, solid, #aaa;
+}
+
+.clink {
+    padding-right: 5px;
+    display: inline;
+    border-right: 1px, solid, #aaa;
+}
+.li:first-child {
+    border: none;
+}
+
+.dekt {
+    display: center;
+}
+
+.butt1 {
+    font-family: sans-serif;
+    background-attachment: fixed;
+
+}
+.butt2 {
+    font-family: sans-serif;
+    background-attachment: fixed;
+
+}
+.butt3 {
+    font-family: sans-serif;
+    background-attachment: fixed;
+
+}
